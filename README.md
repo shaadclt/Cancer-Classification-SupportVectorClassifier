@@ -49,4 +49,4 @@ We would like to acknowledge the creators of the cancer dataset used in this pro
 
 ## Contact
 
-For any questions or inquiries, please contact [Mohamed Shaad] at [shaadclt@gmail.com].
+For any questions or inquiries, please contact Mohamed Shaad at shaadclt@gmail.com.
